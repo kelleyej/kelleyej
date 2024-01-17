@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, there! 👋🏼
 
-<!--
-**kelleyej/kelleyej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Here's a little introduction of me ...* 🪴
 
-Here are some ideas to get you started:
+👩🏼‍💻 I am currently a student at Turing School of Software & Design, working with Javascript, CSS, and HTML. It has been a challening, yet fun and worthwhile venture so far! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦻🏼 Before starting school, I was an Audiologist and mostly worked at University hospitals both in Nashville, TN and Denver, CO. One of my passions was hearing conservation and best practices for protection from      harmful noise levels. 
+
+🏔️ I have a love for the mountains and anything outdoors! You can often me find cycling, hiking, running, or camping. I have recently dived into learning both skiing and indoor climbing-- two sports that push me outside my comfort zone. 
+
+🦡 I am a proud University of Wisconsin alum. I can talk anything cheesecurds, terrace, or Badger sports-related, especially over a Spotted Cow. ON WISCONSIN!
+
+🌟 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kelleyej/)
