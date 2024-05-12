@@ -2,7 +2,7 @@
 
 ## *Here's a little introduction of me ...* 🪴
 
-👩🏼‍💻 I am currently a student at Turing School of Software & Design, working with Javascript, CSS, React, and HTML. It has been a challenging, yet fun and worthwhile venture so far! 
+👩🏼‍💻 I am a student at Turing School of Software & Design, working with Javascript, CSS, React, and HTML. It has been a challenging, yet fun and worthwhile venture so far! I am currently learning Typescript. 
 
 🦻🏼 Before starting my transition into software development, I was an Audiologist and mostly worked at University hospitals both in Nashville, TN and Denver, CO. One of my passions was hearing conservation and best practices for protection from harmful noise levels. 
 
