@@ -2,7 +2,7 @@
 
 ## *Here's a little introduction of me ...* 
 
-👩🏼‍💻 I am a recent graduate of the Turing School of Software & Design, working with JavaScript, TypeScript, CSS3, React, and HTML5 with a focus on TDD, responsiveness, accessibility, and the Agile methodology. I have a curious mind and love researching and exploring new technologies! 
+👩🏼‍💻 I am a graduate of the Turing School of Software & Design, working with JavaScript, TypeScript, CSS3, React, and HTML5 with a focus on TDD, responsiveness, accessibility, and the Agile methodology. I have a curious mind and love researching and exploring new technologies! 
 
 🦻🏼 Before starting my transition into software development, I was an Audiologist and mostly worked at University hospitals both in Nashville, TN and Denver, CO. One of my passions was hearing conservation and best practices for protection from harmful noise levels. 
 
