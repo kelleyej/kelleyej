@@ -1,6 +1,7 @@
 # Hello, there! 👋🏼
 
 ## *Here's a little introduction of me ...* 
+👷🏼‍♀️ I am currently building a web application utilizing React, Vite, and TypeScript for the frontend with Python and Django for the backend. 
 
 👩🏼‍💻 I am a graduate of the Turing School of Software & Design, working with JavaScript, TypeScript, CSS3, React, and HTML5 with a focus on TDD, responsiveness, accessibility, and the Agile methodology. I have a curious mind and love researching and exploring new technologies! 
 
